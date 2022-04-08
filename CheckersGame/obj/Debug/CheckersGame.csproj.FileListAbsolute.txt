@@ -1,0 +1,12 @@
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Resource1.resources
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+C:\Users\argun\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
